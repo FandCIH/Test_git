@@ -62,7 +62,7 @@
           <port>8081</port>
           <!--字符集编码 -->
           <uriEncoding>UTF-8</uriEncoding>
-          <!--服务器名称 -->
+          <!--服务器名称233 -->
           <server>tomcat7</server>
         </configuration>
       </plugin>
